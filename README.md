@@ -17,3 +17,8 @@ Trabajo Individual Capítulo1 y Capítulo 2
 
 - Cantidades y Unidades:
 
+![image](https://user-images.githubusercontent.com/105623628/168699276-8eadd515-c04d-424b-b798-62b2fd2e003d.png)
+
+- VOLTAJE, CORRIENTE Y RESISTENCIA 
+
+
