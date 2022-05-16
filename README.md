@@ -12,3 +12,8 @@ Trabajo Individual Capítulo1 y Capítulo 2
 - Conocer las cantidades y las unidades de medida que se emplean en los circuitos eléctricos.
 - Determinar las principales conversiones de unidades métricas.
 - Establecer las fórmulas necesarias para el voltaje, la resistencia y la corriente de un circuito eléctrico.
+
+3. MARCO TEÓRICO 
+
+- Cantidades y Unidades:
+
