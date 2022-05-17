@@ -67,6 +67,13 @@ SECCIÓN 1–4 Conversiones de unidades métricas
 
 (d) El número de kilowatts en 155 miliwatts 
 
+30. Realice las siguientes operaciones:
+
+
+
+
+
+
 
 
 
