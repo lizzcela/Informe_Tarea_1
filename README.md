@@ -29,33 +29,59 @@ SECCIÓN 1–2  Notación científica
 
 2. Exprese cada número fraccionario en notación científica:
 
-4. Exprese cada uno de los números siguientes en notación científica:
+![image](https://user-images.githubusercontent.com/105623628/168830008-034ca3e8-83e1-4c59-b9a5-28d216b885a9.png)
 
-6. Exprese cada uno de los números siguientes como un número decimal regular:
+4. Exprese cada uno de los siguientes números en notación científica:
+
+![image](https://user-images.githubusercontent.com/105623628/168831031-ad5ad919-e18d-4ddc-acfb-c1c487914736.png)
+
+6. Exprese cada uno de los siguientes números como un número decimal regular:
+
+![image](https://user-images.githubusercontent.com/105623628/168831118-b1295ead-e898-41e5-bebe-cca93686fa9f.png)
 
 8. Exprese cada número de los siguientes como un número decimal regular:
 
+![image](https://user-images.githubusercontent.com/105623628/168831187-1b181f2d-81e1-4426-8d66-7921b1356bda.png)
+
 10. Efectúe las siguientes sustracciones:
 
+![image](https://user-images.githubusercontent.com/105623628/168832066-9acbc512-8ddc-4225-8329-ac0ecbdd76d7.png)
+
 12. Realice las siguientes divisiones:
+
+![image](https://user-images.githubusercontent.com/105623628/168832147-ac2d0659-9d01-4493-8be3-9bae571df2db.png)
 
 SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 
 14. Exprese cada número en notación de ingeniería:
 
-16. Exprese cada número en notación de ingeniería: 
+![image](https://user-images.githubusercontent.com/105623628/168832280-7259e2ae-fe42-4d2e-afde-c1f9d8ce85be.png)
 
-18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+16. Exprese cada número en notación de ingeniería:
+
+![image](https://user-images.githubusercontent.com/105623628/168832364-357bede6-650a-4d85-a83d-bc7ba4a2d269.png)
+
+18. Multiplique los siguientes números y exprese cada resultado en notación de ingeniería:
+
+![image](https://user-images.githubusercontent.com/105623628/168832518-09b73b76-f12a-4432-b476-59aae279ce53.png)
 
 20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico
 
+![image](https://user-images.githubusercontent.com/105623628/168832657-213cf8aa-1ba4-4f81-81b0-95cfd6798f80.png)
+
 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
 
-24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+![image](https://user-images.githubusercontent.com/105623628/168832726-ef598060-030e-4c88-8972-bed5e47be4b0.png)
+
+24. Exprese cada una de las siguientes cantidades por medio de prefijos métricos:
+
+![image](https://user-images.githubusercontent.com/105623628/168832896-b2903c5d-5f87-4ac6-b561-ee04869bc5a2.png)
 
 26. Exprese cada cantidad en notación de ingeniería:
 
-SECCIÓN 1–4 Conversiones de unidades métricas 
+![image](https://user-images.githubusercontent.com/105623628/168832999-f875c3f0-977d-4b91-a304-e0510f3c4db0.png)
+
+SECCIÓN 1–4 Conversiones de unidades métricas
 
 28. Determine lo siguiente:
 
@@ -67,9 +93,13 @@ SECCIÓN 1–4 Conversiones de unidades métricas
 
 (d) El número de kilowatts en 155 miliwatts 
 
+![image](https://user-images.githubusercontent.com/105623628/168833165-7a72476a-dfec-472f-ac87-4812c9177608.png)
+
 30. Realice las siguientes operaciones:
 
-4. RESOLUCION DE PROBLEMAS CAPÍTULO 2
+![image](https://user-images.githubusercontent.com/105623628/168833263-21851e47-5128-4e08-8b90-2749be069333.png)
+
+4. RESOLUCIÓN DE PROBLEMAS CAPÍTULO 2
 
 SECCIÓN 2–2 Carga eléctrica
 
