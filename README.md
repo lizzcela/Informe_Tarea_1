@@ -34,3 +34,13 @@ SECCIÓN 1–2  Notación científica
 6. Exprese cada uno de los números siguientes como un número decimal regular:
 
 8. Exprese cada número de los siguientes como un número decimal regular:
+
+10. Efectúe las siguientes sustracciones:
+
+12. Realice las siguientes divisiones:
+
+SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
+
+
+
+
