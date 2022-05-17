@@ -23,3 +23,4 @@ Trabajo Individual Capítulo1 y Capítulo 2
 
 ![image](https://user-images.githubusercontent.com/105623628/168699408-4df007e3-a3e2-4925-9c06-e97312dfbb11.png)
 
+Precauciones  de seguridad 
