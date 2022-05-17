@@ -98,8 +98,12 @@ SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
 18. ¿En qué principio se basan los generadores eléctricos?
 
+El funcionamiento de los generadores eléctricos se basa en el principio de la inducción electromagnética.
+
 20. Cierta fuente de corriente proporciona 100 mA a 1 k de carga. Si la resistencia disminuye a 500 ,
 ¿cuál es la corriente en la carga?
+
+Dado que la resistencia se reduce a la mitad, la corriente en la carga se duplica a 200 mA.
 
 SECCIÓN 2–5 Resistores
 
@@ -112,6 +116,8 @@ problema 21.
 
 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la
 resistencia total es de 1000 , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+
+500Ω, hay igual resistencia en cada lado del contacto.
 
 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
 
