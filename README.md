@@ -29,8 +29,5 @@ SECCIÓN 1–2  Notación científica
 
 2. Exprese cada número fraccionario en notación científica:
 
-(a) 1/500 (b) 1/2000 (c) 1/5,000,000
-
 4. Exprese cada uno de los números siguientes en notación científica:
 
-(a) 0.0002 (b) 0.6 (c)7.8x10^-2
