@@ -41,6 +41,34 @@ SECCIÓN 1–2  Notación científica
 
 SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 
+14. Exprese cada número en notación de ingeniería:
+
+16. Exprese cada número en notación de ingeniería: 
+
+18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+
+20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico
+
+22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
+
+24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+
+26. Exprese cada cantidad en notación de ingeniería:
+
+SECCIÓN 1–4 Conversiones de unidades métricas 
+
+28. Determine lo siguiente:
+
+(a) El número de microamperes en 1 miliampere
+
+(b) El número de milivolts en 0.05 kilovolts
+
+(c) El número de megohms en 0.02 kilohms
+
+(d) El número de kilowatts en 155 miliwatts 
+
+
+
 
 
 
