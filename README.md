@@ -229,7 +229,23 @@ presente en la figura 2-70.
 
 ![image](https://user-images.githubusercontent.com/105623628/168837803-dcc07460-615c-4865-8316-ea94f54cfe63.png)
 
+5. VÍDEO 
 
+
+
+6. CLONCLUSIONES 
+
+- Voltaje es el trabajo por unidad de carga eléctrica que ejerce sobre una partícula un campo eléctrico, la corriente se define como la velocidad que tiene el flujo de la carga y por último la resistencia se la conoce como la oposición al paso de la corriente.
+
+- Las cantidades y medidas más utilizadas en circuitos eléctricos son: Carga (coulomb); Energía (joule); Frecuencia (hertz); Potencia (watt); Resistencia (ohm) y por último Voltaje (volt)
+
+- Entre las principales conversiones que envuelven a circuitos eléctricos se hace referencia a las involucradas con el voltaje, la corriente y la resistencia; es estos cambios son importantes los siguientes prefijos: mega, kilo, mili y micro
+
+- Las fórmulas para calcular voltaje, corriente y resistencia son: (V = energías en joules/carga en coulombs), (I = carga en coulombs/tiempo en segundos) y (R = voltaje en volts/corriente en amperes)
+
+7. BIBLIOGRAFÍA 
+
+- Floyd, T. (2007). Principios de circuitos eléctricos. Monterrey: Pearson.
 
 
 
