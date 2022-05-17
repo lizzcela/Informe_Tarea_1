@@ -31,3 +31,5 @@ SECCIÓN 1–2  Notación científica
 
 4. Exprese cada uno de los números siguientes en notación científica:
 
+6. Exprese cada uno de los números siguientes como un número decimal regular:
+
