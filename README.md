@@ -23,4 +23,14 @@ Trabajo Individual Capítulo1 y Capítulo 2
 
 ![image](https://user-images.githubusercontent.com/105623628/168699408-4df007e3-a3e2-4925-9c06-e97312dfbb11.png)
 
-Precauciones  de seguridad 
+3. RESULUCCION DE PROBLEMAS CAPÍTULO 1
+
+SECCIÓN 1–2  Notación científica
+
+2. Exprese cada número fraccionario en notación científica:
+
+(a) 1/500 (b) 1/2000 (c) 1/5,000,000
+
+4. Exprese cada uno de los números siguientes en notación científica:
+
+(a) 0.0002 (b) 0.6 (c)7.8x10^-2
