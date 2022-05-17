@@ -86,7 +86,7 @@ a través del resistor?
 
 12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 
-14. 5.74  1017 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+14. 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 
 
 
