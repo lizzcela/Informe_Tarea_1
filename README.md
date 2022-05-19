@@ -3,7 +3,7 @@ Trabajo Individual Capítulo1 y Capítulo 2
 
 1. OBJETIVOS 
 
-1.1. ONJETIVO GENERAL:
+1.1. OBJETIVO GENERAL:
 
 - Aprender los conceptos de corriente, voltaje y resistencia, mediante la lectura del capítulo 1 y 2 del libro "Principios de circuitos eléctricos" de Floyd, para lograr detectar circuitos básicos y colocarlas en las unidades de medida correctas.
 
@@ -231,7 +231,7 @@ presente en la figura 2-70.
 
 5. VÍDEO 
 
-
+https://www.youtube.com/watch?v=09zOcT5zOs8
 
 6. CLONCLUSIONES 
 
